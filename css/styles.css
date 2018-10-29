@@ -74,6 +74,22 @@ body {
     }
 }
 
+@media (max-width: 769px){
+.contact-details{
+    width: auto !important;
+    margin: 10px auto;
+}
+    #contact{
+        padding-left: 0;
+    }
+    h2.contact-list{
+        padding-left: 0;
+    }
+    h2{
+        padding-left: 0 !important;
+    }
+}
+
 
 /*Navigation Bar*/
 
